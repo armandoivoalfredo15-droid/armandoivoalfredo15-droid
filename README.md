@@ -1,16 +1,19 @@
-## Hi there 👋
-
-<!--
-**armandoivoalfredo15-droid/armandoivoalfredo15-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Armando Ivo Alfredo</title>
+  <style>
+    body { font-family: Arial; text-align: center; padding: 50px; background: #0d1117; color: white; }
+    h1 { color: #58a6ff; }
+    .card { background: #161b22; padding: 20px; border-radius: 10px; max-width: 400px; margin: auto; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>👋 Olá, sou o Armando!</h1>
+    <p>Estudante de Programação Web</p>
+    <p>Luanda, Angola 🇦🇴</p>
+    <p>Este é meu primeiro site no GitHub!</p>
+  </div>
+</body>
+</html>
